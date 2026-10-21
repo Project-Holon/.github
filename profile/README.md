@@ -1,4 +1,4 @@
-# Project Holon
+<h1><img src="banner.png" alt="Project Holon"></h1>
 
 A decompilation of Pokémon Black and White, a native PC port built on it,
 and a modding suite for the port.
