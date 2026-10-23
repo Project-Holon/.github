@@ -1,11 +1,13 @@
 <h1><img src="banner.png" alt="Project Holon"></h1>
 
-https://project-holon.com/
+<p>
+  <a href="https://project-holon.com/"><img alt="Website" src="https://img.shields.io/badge/Website-project--holon.com-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://x.com/projectholon"><img alt="X" src="https://img.shields.io/badge/X-@projectholon-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.patreon.com/cw/project_holon"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-project__holon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</p>
 
 A decompilation of Pokémon Black and White, a native PC port built on it,
 and a modding suite for the port.
-
-The repositories are private while the work is in progress.
 
 ## Projects
 
